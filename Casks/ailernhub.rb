@@ -1,5 +1,5 @@
 cask "ailernhub" do
-  version "1.0.1"
+  version "1.0.2"
   sha256 "aa232ca600efcd1b4333c749bf5e68822ed21efa655c91ab9ac2f830993ef6b0"
 
   url "https://github.com/ArronAI007/AILearnHub/releases/download/v#{version}/AILearnHub.zip"
